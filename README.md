@@ -1,3 +1,7 @@
+# To AccountLogin
+Username - admin@gmail.com
+Password - admin123
+
 # AngularRouting
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
